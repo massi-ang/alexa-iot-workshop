@@ -1,0 +1,9 @@
+[submodule "iot-companion-app"]
+	path = iot-companion-app
+	url = http://github.com/massi-ang/iot-companion-app
+[submodule "alexa-iot-workshop-lamp"]
+	path = alexa-iot-workshop-lamp
+	url = https://github.com/massi-ang/alexa-iot-workshop-lamp.git
+[submodule "skill-sample-python-smarthome-sandbox"]
+	path = skill-sample-python-smarthome-sandbox
+	url = https://github.com/massi-ang/skill-sample-python-smarthome-sandbox.git
